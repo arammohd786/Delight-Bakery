@@ -24,7 +24,7 @@ npm run build
 
 | Field    | Value                   |
 |----------|-------------------------|
-| Email    | lonewolf@delightbakery.com     |
+| Email    | lonewolf@delightbakers.com     |
 | Password | lonewolf                |
 
 > Login is required before placing an order. Session is stored in **Local Storage**.
