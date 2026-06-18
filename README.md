@@ -24,8 +24,8 @@ npm run build
 
 | Field    | Value                   |
 |----------|-------------------------|
-| Email    | user@arambakery.com     |
-| Password | aram123                 |
+| Email    | lonewolf@delightbakery.com     |
+| Password | lonewolf                |
 
 > Login is required before placing an order. Session is stored in **Local Storage**.
 
@@ -52,7 +52,7 @@ aram-bakery/
 ## ✨ Features
 
 ### 🔑 Authentication
-- Hardcoded credentials (`user@arambakery.com` / `aram123`)
+- Hardcoded credentials (`lonewolf@delightbakery.com` / `lonewolf`)
 - Login session stored in Local Storage
 - Unauthenticated users redirected to Login page before checkout
 
